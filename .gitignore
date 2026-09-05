@@ -1,0 +1,30 @@
+# Dépendances
+node_modules
+
+# Build de production
+dist
+dist-ssr
+
+# Journaux
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Éditeurs / OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
