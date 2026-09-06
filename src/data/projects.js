@@ -8,7 +8,7 @@ export const projectsData = [
     title: 'CarburFlow',
     icon: 'Fuel',
     accent: 'blue',
-    badge: { fr: 'Projet SaaS', en: 'SaaS Project' },
+    badge: { fr: 'Projet SaaS · Camtel', en: 'SaaS Project · Camtel' },
     description: {
       fr: "Solution SaaS complète de gestion et d'optimisation de la consommation de carburant et de suivi des flux logistiques. Conçue avec une architecture moderne découpée entre un backend robuste (Django/Python) et une interface web ultra-réactive (React + Vite).",
       en: 'Complete SaaS solution for managing and optimizing fuel consumption while tracking logistics flows in real time. Built with a modern architecture split between a robust backend (Django/Python) and an ultra-reactive web interface (React + Vite).',
