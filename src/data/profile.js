@@ -4,8 +4,8 @@
  * (nom, liens sociaux, e-mail, chemin du CV…).
  */
 export const profile = {
-  brand: 'BNB',
-  fullName: 'BALAWE NDIKWA Bienvenu',
+  brand: 'BALAWE NNDIKWA BIENVENU',
+  fullName: 'BALAWE NDIKWA BIENVENU',
   email: '003bn@gmail.com',
   location: {
     fr: 'Yaoundé, Cameroun',
