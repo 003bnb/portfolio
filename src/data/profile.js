@@ -18,7 +18,7 @@ export const profile = {
     linkedin: 'https://www.linkedin.com/in/bienvenu-balawe-ndikwa-1618b7433',
   },
   display: {
-    github: 'https://github.com/003bnb',
-    linkedin: 'https://www.linkedin.com/in/bienvenu-balawe-ndikwa-1618b7433',
+    github: 'github.com/003bnb',
+    linkedin: 'linkedin.com/in/bienvenu-balawe-ndikwa-1618b7433',
   },
 };

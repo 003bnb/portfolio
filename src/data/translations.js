@@ -24,6 +24,7 @@ export const translations = {
       basedIn: 'Basé à',
       ctaProjects: 'Explorer mes projets',
       ctaCv: 'Télécharger mon CV',
+      customTag: 'Solutions sur-mesure',
       socials: {
         github: 'Profil GitHub',
         linkedin: 'Profil LinkedIn',
@@ -79,6 +80,8 @@ export const translations = {
         success: 'Message envoyé avec succès !',
         successSub: 'Merci pour votre message, je vous répondrai dans les plus brefs délais.',
         error: 'Veuillez remplir tous les champs obligatoires.',
+        sendError:
+          "Une erreur est survenue lors de l'envoi. Vérifiez votre connexion ou écrivez-moi directement par e-mail.",
       },
       info: {
         title: 'Informations',
@@ -118,6 +121,7 @@ export const translations = {
       basedIn: 'Based in',
       ctaProjects: 'Explore my projects',
       ctaCv: 'Download my CV',
+      customTag: 'Tailored solutions',
       socials: {
         github: 'GitHub profile',
         linkedin: 'LinkedIn profile',
@@ -173,6 +177,8 @@ export const translations = {
         success: 'Message sent successfully!',
         successSub: 'Thank you for your message, I will get back to you shortly.',
         error: 'Please fill in all required fields.',
+        sendError:
+          'Something went wrong while sending. Check your connection or email me directly instead.',
       },
       info: {
         title: 'Information',
